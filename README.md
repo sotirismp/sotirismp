@@ -1,6 +1,6 @@
 # 🧍About me:
 Hello there 👋</br>
-My name is Sotiris and I'm Web Developer. I love building things using JavaScript and also I love drinking coffee☕
+My name is Sotiris and I'm a Web Developer. I love building things using JavaScript and I also love drinking coffee☕
 
 # 💻 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23F0DB4F.svg?style=for-the-badge&logo=javascript&logoColor=grey) 
